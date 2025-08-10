@@ -1,0 +1,12 @@
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.AssemblyInfoInputs.cache
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.AssemblyInfo.cs
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.csproj.CoreCompileInputs.cache
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\bin\Debug\net8.0\Chavp.Domain.deps.json
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\bin\Debug\net8.0\Chavp.Domain.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\bin\Debug\net8.0\Chavp.Domain.pdb
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\refint\Chavp.Domain.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.pdb
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\ref\Chavp.Domain.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.csproj.AssemblyReference.cache

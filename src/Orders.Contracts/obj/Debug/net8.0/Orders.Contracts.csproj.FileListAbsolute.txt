@@ -1,0 +1,11 @@
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\bin\Debug\net8.0\Orders.Contracts.deps.json
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\bin\Debug\net8.0\Orders.Contracts.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\bin\Debug\net8.0\Orders.Contracts.pdb
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\obj\Debug\net8.0\Orders.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\obj\Debug\net8.0\Orders.Contracts.AssemblyInfoInputs.cache
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\obj\Debug\net8.0\Orders.Contracts.AssemblyInfo.cs
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\obj\Debug\net8.0\Orders.Contracts.csproj.CoreCompileInputs.cache
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\obj\Debug\net8.0\Orders.Contracts.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\obj\Debug\net8.0\refint\Orders.Contracts.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\obj\Debug\net8.0\Orders.Contracts.pdb
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Contracts\obj\Debug\net8.0\ref\Orders.Contracts.dll
