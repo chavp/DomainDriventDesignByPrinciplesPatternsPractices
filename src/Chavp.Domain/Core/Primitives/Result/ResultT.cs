@@ -16,7 +16,7 @@ namespace Chavp.Domain.Core.Primitives.Result
         /// <param name="value">The result value.</param>
         /// <param name="isSuccess">The flag indicating if the result is successful.</param>
         /// <param name="error">The error.</param>
-        protected internal Result(TValue value, bool isSuccess, List<Error> errors)
+        protected internal Result(TValue value, bool isSuccess, IReadOnlyCollection<Error> errors)
             : base(isSuccess, errors)
             => _value = value;
 

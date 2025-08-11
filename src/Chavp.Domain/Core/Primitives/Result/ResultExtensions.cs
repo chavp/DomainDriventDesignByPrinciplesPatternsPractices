@@ -98,7 +98,7 @@ namespace Chavp.Domain.Core.Primitives.Result
         /// <returns>
         /// The result of the on-success function if the result is a success result, otherwise the result of the failure result.
         /// </returns>
-        public static async Task<T> Match<T>(this Task<Result> resultTask, Func<T> onSuccess, Func<List<Error>, T> onFailure)
+        public static async Task<T> Match<T>(this Task<Result> resultTask, Func<T> onSuccess, Func<IReadOnlyCollection<Error>, T> onFailure)
         {
             Result result = await resultTask;
 

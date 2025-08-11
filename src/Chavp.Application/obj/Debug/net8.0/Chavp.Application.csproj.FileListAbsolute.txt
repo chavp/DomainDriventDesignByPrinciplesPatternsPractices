@@ -13,3 +13,4 @@ D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Application
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Application\obj\Debug\net8.0\refint\Chavp.Application.dll
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Application\obj\Debug\net8.0\Chavp.Application.pdb
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Application\obj\Debug\net8.0\ref\Chavp.Application.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Application\obj\Debug\net8.0\Chavp.Application.sourcelink.json

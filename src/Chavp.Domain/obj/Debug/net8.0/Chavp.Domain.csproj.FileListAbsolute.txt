@@ -10,3 +10,4 @@ D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.pdb
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\ref\Chavp.Domain.dll
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.csproj.AssemblyReference.cache
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Chavp.Domain\obj\Debug\net8.0\Chavp.Domain.sourcelink.json

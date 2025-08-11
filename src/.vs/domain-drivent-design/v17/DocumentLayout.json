@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\orders.services.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\orders.services.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\infrastructure\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\infrastructure\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.domain\\core\\primitives\\result\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|solutionrelative:chavp.domain\\core\\primitives\\result\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.domain\\core\\primitives\\result\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|solutionrelative:chavp.domain\\core\\primitives\\result\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.domain\\core\\primitives\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|solutionrelative:chavp.domain\\core\\primitives\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.domain\\core\\primitives\\maybe\\maybeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|solutionrelative:chavp.domain\\core\\primitives\\maybe\\maybeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36FD57E4-D422-4AF5-840B-30B520386180}|Orders.Application\\Orders.Application.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.application\\weatherforecast\\getweatherforecast\\getweatherforecastqueryhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +47,12 @@
       "RelativeMoniker": "D:0:0:{36FD57E4-D422-4AF5-840B-30B520386180}|Orders.Application\\Orders.Application.csproj|solutionrelative:orders.application\\weatherforecast\\getweatherforecast\\getweatherforecastquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36FD57E4-D422-4AF5-840B-30B520386180}|Orders.Application\\Orders.Application.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.application\\weatherforecast\\createweatherforecast\\createweatherforecastrequestcommandhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36FD57E4-D422-4AF5-840B-30B520386180}|Orders.Application\\Orders.Application.csproj|solutionrelative:orders.application\\weatherforecast\\createweatherforecast\\createweatherforecastrequestcommandhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\orders.services.api\\errorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BDC6DD-3624-4501-B354-23ADB8C40F07}|Orders.Services.Api\\Orders.Services.Api.csproj|solutionrelative:orders.services.api\\errorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.domain\\core\\primitives\\result\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|solutionrelative:chavp.domain\\core\\primitives\\result\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.domain\\core\\primitives\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|solutionrelative:chavp.domain\\core\\primitives\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.domain\\core\\primitives\\result\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|solutionrelative:chavp.domain\\core\\primitives\\result\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8A02A7B-0D0C-4E75-BBE1-104D1FC8F3FC}|Chavp.Application\\Chavp.Application.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.application\\core\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A8A02A7B-0D0C-4E75-BBE1-104D1FC8F3FC}|Chavp.Application\\Chavp.Application.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.application\\core\\extensions\\fluentvalidationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8A02A7B-0D0C-4E75-BBE1-104D1FC8F3FC}|Chavp.Application\\Chavp.Application.csproj|solutionrelative:chavp.application\\core\\extensions\\fluentvalidationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.domain\\core\\primitives\\maybe\\maybeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2FE9C44-594C-4004-9983-BBF1894A8D90}|Chavp.Domain\\Chavp.Domain.csproj|solutionrelative:chavp.domain\\core\\primitives\\maybe\\maybeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8A02A7B-0D0C-4E75-BBE1-104D1FC8F3FC}|Chavp.Application\\Chavp.Application.csproj|d:\\github\\domaindriventdesignbyprinciplespatternspractices\\src\\chavp.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,32 +115,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Orders.Services.Api\\appsettings.json",
-              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\appsettings.json",
-              "RelativeToolTip": "Orders.Services.Api\\appsettings.json",
+              "Title": "Orders.Services.Api.http",
+              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Orders.Services.Api.http",
+              "RelativeDocumentMoniker": "Orders.Services.Api\\Orders.Services.Api.http",
+              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Orders.Services.Api.http",
+              "RelativeToolTip": "Orders.Services.Api\\Orders.Services.Api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-10T18:35:35.674Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-11T03:09:37.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "MaybeExtensions.cs",
+              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Maybe\\MaybeExtensions.cs",
+              "RelativeDocumentMoniker": "Chavp.Domain\\Core\\Primitives\\Maybe\\MaybeExtensions.cs",
+              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Maybe\\MaybeExtensions.cs",
+              "RelativeToolTip": "Chavp.Domain\\Core\\Primitives\\Maybe\\MaybeExtensions.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:13:03.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultT.cs",
+              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\ResultT.cs",
+              "RelativeDocumentMoniker": "Chavp.Domain\\Core\\Primitives\\Result\\ResultT.cs",
+              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\ResultT.cs",
+              "RelativeToolTip": "Chavp.Domain\\Core\\Primitives\\Result\\ResultT.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:01:23.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\Result.cs",
+              "RelativeDocumentMoniker": "Chavp.Domain\\Core\\Primitives\\Result\\Result.cs",
+              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\Result.cs",
+              "RelativeToolTip": "Chavp.Domain\\Core\\Primitives\\Result\\Result.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAewFcAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:00:44.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "GlobalExceptionHandler.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\GlobalExceptionHandler.cs",
               "RelativeDocumentMoniker": "Orders.Services.Api\\GlobalExceptionHandler.cs",
               "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\GlobalExceptionHandler.cs",
               "RelativeToolTip": "Orders.Services.Api\\GlobalExceptionHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:42:59.644Z",
+              "WhenOpened": "2025-08-11T02:46:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "Chavp.Domain\\Core\\Primitives\\Result\\ResultExtensions.cs",
+              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\ResultExtensions.cs",
+              "RelativeToolTip": "Chavp.Domain\\Core\\Primitives\\Result\\ResultExtensions.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAIA4wGQAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:04:45.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Orders.Services.Api\\Program.cs",
+              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Program.cs",
+              "RelativeToolTip": "Orders.Services.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:43:18.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Infrastructure\\ApiController.cs",
+              "RelativeDocumentMoniker": "Orders.Services.Api\\Infrastructure\\ApiController.cs",
+              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Infrastructure\\ApiController.cs",
+              "RelativeToolTip": "Orders.Services.Api\\Infrastructure\\ApiController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:54:34.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Orders.Services.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Orders.Services.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA4wC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:21:50.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "GetWeatherForecastQueryHandle.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Application\\WeatherForecast\\GetWeatherForecast\\GetWeatherForecastQueryHandle.cs",
               "RelativeDocumentMoniker": "Orders.Application\\WeatherForecast\\GetWeatherForecast\\GetWeatherForecastQueryHandle.cs",
@@ -149,33 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Orders.Services.Api\\Program.cs",
-              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Program.cs",
-              "RelativeToolTip": "Orders.Services.Api\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:43:18.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Orders.Services.Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Orders.Services.Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T18:21:50.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "GetWeatherForecastQuery.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Application\\WeatherForecast\\GetWeatherForecast\\GetWeatherForecastQuery.cs",
               "RelativeDocumentMoniker": "Orders.Application\\WeatherForecast\\GetWeatherForecast\\GetWeatherForecastQuery.cs",
@@ -188,7 +257,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Orders.Services.Api\\appsettings.json",
+              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\appsettings.json",
+              "RelativeToolTip": "Orders.Services.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T18:35:35.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CreateWeatherForecastRequestCommandHandle.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Application\\WeatherForecast\\CreateWeatherForecast\\CreateWeatherForecastRequestCommandHandle.cs",
               "RelativeDocumentMoniker": "Orders.Application\\WeatherForecast\\CreateWeatherForecast\\CreateWeatherForecastRequestCommandHandle.cs",
@@ -196,38 +277,11 @@
               "RelativeToolTip": "Orders.Application\\WeatherForecast\\CreateWeatherForecast\\CreateWeatherForecastRequestCommandHandle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T18:31:19.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T18:31:19.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ErrorExtensions.cs",
-              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\ErrorExtensions.cs",
-              "RelativeDocumentMoniker": "Orders.Services.Api\\ErrorExtensions.cs",
-              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Orders.Services.Api\\ErrorExtensions.cs",
-              "RelativeToolTip": "Orders.Services.Api\\ErrorExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:43:14.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ResultExtensions.cs",
-              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\ResultExtensions.cs",
-              "RelativeDocumentMoniker": "Chavp.Domain\\Core\\Primitives\\Result\\ResultExtensions.cs",
-              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\ResultExtensions.cs",
-              "RelativeToolTip": "Chavp.Domain\\Core\\Primitives\\Result\\ResultExtensions.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwCEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:04:45.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ValidationException.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Core\\Exceptions\\ValidationException.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Core\\Exceptions\\ValidationException.cs",
@@ -235,12 +289,11 @@
               "RelativeToolTip": "Chavp.Application\\Core\\Exceptions\\ValidationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T16:26:02.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T16:26:02.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "FluentValidationExtensions.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Core\\Extensions\\FluentValidationExtensions.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Core\\Extensions\\FluentValidationExtensions.cs",
@@ -248,51 +301,11 @@
               "RelativeToolTip": "Chavp.Application\\Core\\Extensions\\FluentValidationExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T16:28:07.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T16:28:07.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Result.cs",
-              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\Result.cs",
-              "RelativeDocumentMoniker": "Chavp.Domain\\Core\\Primitives\\Result\\Result.cs",
-              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\Result.cs",
-              "RelativeToolTip": "Chavp.Domain\\Core\\Primitives\\Result\\Result.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAMwEIAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:00:44.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResultT.cs",
-              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\ResultT.cs",
-              "RelativeDocumentMoniker": "Chavp.Domain\\Core\\Primitives\\Result\\ResultT.cs",
-              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Result\\ResultT.cs",
-              "RelativeToolTip": "Chavp.Domain\\Core\\Primitives\\Result\\ResultT.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:01:23.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MaybeExtensions.cs",
-              "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Maybe\\MaybeExtensions.cs",
-              "RelativeDocumentMoniker": "Chavp.Domain\\Core\\Primitives\\Maybe\\MaybeExtensions.cs",
-              "ToolTip": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Primitives\\Maybe\\MaybeExtensions.cs",
-              "RelativeToolTip": "Chavp.Domain\\Core\\Primitives\\Maybe\\MaybeExtensions.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T15:13:03.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IQuery.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Abstractions\\Messaging\\IQuery.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Abstractions\\Messaging\\IQuery.cs",
@@ -300,12 +313,11 @@
               "RelativeToolTip": "Chavp.Application\\Abstractions\\Messaging\\IQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:12:38.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:12:38.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IIntegrationEventPublisher.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Abstractions\\Messaging\\IIntegrationEventPublisher.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Abstractions\\Messaging\\IIntegrationEventPublisher.cs",
@@ -313,12 +325,11 @@
               "RelativeToolTip": "Chavp.Application\\Abstractions\\Messaging\\IIntegrationEventPublisher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:12:36.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:12:36.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IIntegrationEvent.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Abstractions\\Messaging\\IIntegrationEvent.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Abstractions\\Messaging\\IIntegrationEvent.cs",
@@ -326,12 +337,11 @@
               "RelativeToolTip": "Chavp.Application\\Abstractions\\Messaging\\IIntegrationEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:12:34.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:12:34.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IEvent.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Abstractions\\Messaging\\IEvent.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Abstractions\\Messaging\\IEvent.cs",
@@ -339,12 +349,11 @@
               "RelativeToolTip": "Chavp.Application\\Abstractions\\Messaging\\IEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:12:32.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:12:32.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IEventHandler.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Abstractions\\Messaging\\IEventHandler.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Abstractions\\Messaging\\IEventHandler.cs",
@@ -352,12 +361,11 @@
               "RelativeToolTip": "Chavp.Application\\Abstractions\\Messaging\\IEventHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:12:31.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:12:31.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IDomainEventHandler.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Abstractions\\Messaging\\IDomainEventHandler.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Abstractions\\Messaging\\IDomainEventHandler.cs",
@@ -365,12 +373,11 @@
               "RelativeToolTip": "Chavp.Application\\Abstractions\\Messaging\\IDomainEventHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:12:24.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:12:24.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
@@ -378,12 +385,11 @@
               "RelativeToolTip": "Chavp.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:12:19.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:12:19.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ICommand.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Abstractions\\Messaging\\ICommand.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Abstractions\\Messaging\\ICommand.cs",
@@ -391,12 +397,11 @@
               "RelativeToolTip": "Chavp.Application\\Abstractions\\Messaging\\ICommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:12:16.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:12:16.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IDateTime.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Application\\Abstractions\\Common\\IDateTime.cs",
               "RelativeDocumentMoniker": "Chavp.Application\\Abstractions\\Common\\IDateTime.cs",
@@ -404,12 +409,11 @@
               "RelativeToolTip": "Chavp.Application\\Abstractions\\Common\\IDateTime.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:11:42.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:11:42.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IDomainEvent.cs",
               "DocumentMoniker": "D:\\github\\DomainDriventDesignByPrinciplesPatternsPractices\\src\\Chavp.Domain\\Core\\Events\\IDomainEvent.cs",
               "RelativeDocumentMoniker": "Chavp.Domain\\Core\\Events\\IDomainEvent.cs",
@@ -417,8 +421,7 @@
               "RelativeToolTip": "Chavp.Domain\\Core\\Events\\IDomainEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:02:28.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:02:28.655Z"
             }
           ]
         }

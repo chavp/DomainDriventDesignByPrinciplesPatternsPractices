@@ -17,3 +17,4 @@ D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Applicatio
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Application\obj\Debug\net8.0\refint\Orders.Application.dll
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Application\obj\Debug\net8.0\Orders.Application.pdb
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Application\obj\Debug\net8.0\ref\Orders.Application.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Application\obj\Debug\net8.0\Orders.Application.sourcelink.json

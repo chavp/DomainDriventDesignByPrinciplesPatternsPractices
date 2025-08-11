@@ -5,55 +5,26 @@ using FluentValidation;
 using MediatR;
 using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Mvc;
 using Orders.Application.WeatherForecast.CreateWeatherForecast;
 using Orders.Application.WeatherForecast.GetWeatherForecast;
 using Orders.Contracts.WeatherForecast;
+using Orders.Services.Api.Infrastructure;
 using System;
 using System.Reflection.Metadata.Ecma335;
 using System.Text.Json.Serialization;
 
 namespace Orders.Services.Api.Controllers
 {
-    [ApiController]
-    [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class WeatherForecastController : ApiController
     {
-        //protected IActionResult BadRequest(Error error) => BadRequest(new ApiErrorResponse(new[] { error }));
-        protected new IActionResult Ok(object value) => base.Ok(value);
-        protected IActionResult BadRequest(List<Error> errors)
-        {
-            var details = new List<string>();
-            foreach (var error in errors) {
-                details.Add($"{error.Code}:{error.Message}");
-            }
-
-            var prob1 = base.Problem(
-                statusCode: StatusCodes.Status400BadRequest,
-                title: "Bad Request",
-                type: "https://datatracker.ietf.org/doc/html/rfc7231#sectio-6.6.1",
-                detail: string.Join(", ", details)
-                );
-            
-            //prob1.Value = new {
-            //    status = StatusCodes.Status400BadRequest,
-            //    title = "Bad Request",
-            //    type = "https://datatracker.ietf.org/doc/html/rfc7231#sectio-6.6.1",
-            //    errors = errors 
-            //};
-            return prob1;
-        }
-
-        protected new IActionResult NotFound() => base.NotFound();
-
-        private readonly ILogger<WeatherForecastController> _logger;
-
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
+           : base(logger)
         {
-            _logger = logger;
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
+        [HttpGet("weather-forecasts")]
         [ProducesResponseType(typeof(IEnumerable<WeatherForecastResponse>), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<IActionResult> GetWeatherForecast() =>
@@ -63,7 +34,7 @@ namespace Orders.Services.Api.Controllers
                 .Match(Ok, NotFound)
                 ;
 
-        [HttpPost(Name = "CreateWeatherForecast")]
+        [HttpPost("weather-forecasts")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> CreateWeatherForecast(

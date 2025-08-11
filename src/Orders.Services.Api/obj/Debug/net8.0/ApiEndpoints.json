@@ -2,7 +2,7 @@
   {
     "ContainingType": "Orders.Services.Api.Controllers.WeatherForecastController",
     "Method": "GetWeatherForecast",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "WeatherForecast/weather-forecasts",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -26,13 +26,12 @@
         ],
         "StatusCode": 404
       }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    ]
   },
   {
     "ContainingType": "Orders.Services.Api.Controllers.WeatherForecastController",
     "Method": "CreateWeatherForecast",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "WeatherForecast/weather-forecasts",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -58,7 +57,6 @@
         ],
         "StatusCode": 400
       }
-    ],
-    "EndpointName": "CreateWeatherForecast"
+    ]
   }
 ]

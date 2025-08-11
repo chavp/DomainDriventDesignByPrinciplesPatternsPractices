@@ -12,7 +12,7 @@ namespace Chavp.Domain.Core.Primitives.Result
         /// </summary>
         /// <param name="isSuccess">The flag indicating if the result is successful.</param>
         /// <param name="error">The error.</param>
-        protected Result(bool isSuccess, List<Error> errors)
+        protected Result(bool isSuccess, IReadOnlyCollection<Error> errors)
         {
             if (isSuccess && errors.Any())
             {
@@ -41,7 +41,7 @@ namespace Chavp.Domain.Core.Primitives.Result
         /// <summary>
         /// Gets the error.
         /// </summary>
-        public List<Error> Errors { get; } = [];
+        public IReadOnlyCollection<Error> Errors { get; } = [];
 
         /// <summary>
         /// Returns a success <see cref="Result"/>.
@@ -73,7 +73,7 @@ namespace Chavp.Domain.Core.Primitives.Result
         /// </summary>
         /// <param name="error">The error.</param>
         /// <returns>A new instance of <see cref="Result"/> with the specified error and failure flag set.</returns>
-        public static Result Failure(List<Error> errors) => new Result(false, errors);
+        public static Result Failure(IReadOnlyCollection<Error> errors) => new Result(false, errors);
 
         /// <summary>
         /// Returns a failure <see cref="Result{TValue}"/> with the specified error.
@@ -85,7 +85,7 @@ namespace Chavp.Domain.Core.Primitives.Result
         /// We're purposefully ignoring the nullable assignment here because the API will never allow it to be accessed.
         /// The value is accessed through a method that will throw an exception if the result is a failure result.
         /// </remarks>
-        public static Result<TValue> Failure<TValue>(List<Error> errors) => new Result<TValue>(default!, false, errors);
+        public static Result<TValue> Failure<TValue>(IReadOnlyCollection<Error> errors) => new Result<TValue>(default!, false, errors);
 
         /// <summary>
         /// Returns the first failure from the specified <paramref name="results"/>.
