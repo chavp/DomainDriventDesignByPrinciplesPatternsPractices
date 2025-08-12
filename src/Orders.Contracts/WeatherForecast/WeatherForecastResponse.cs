@@ -8,6 +8,6 @@ namespace Orders.Contracts.WeatherForecast
 {
     public class WeatherForecastResponse
     {
-        public WeatherForecastData[] WeatherForecasts { get; set; }
+        public IReadOnlyCollection<WeatherForecastData> WeatherForecasts { get; set; } = [];
     }
 }

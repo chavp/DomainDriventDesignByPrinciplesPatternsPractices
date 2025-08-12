@@ -17,7 +17,7 @@ using System.Text.Json.Serialization;
 
 namespace Orders.Services.Api.Controllers
 {
-    public class WeatherForecastController : ApiController
+    public sealed class WeatherForecastController : ApiController
     {
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
            : base(logger)

@@ -1,5 +1,40 @@
 [
   {
+    "ContainingType": "Orders.Services.Api.Controllers.OrdersController",
+    "Method": "CreateWeatherForecast",
+    "RelativePath": "Orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Orders.Contracts.Orders.CreateOrder.CreateOrderRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Orders.Contracts.Orders.CreateOrder.CreateOrderResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
     "ContainingType": "Orders.Services.Api.Controllers.WeatherForecastController",
     "Method": "GetWeatherForecast",
     "RelativePath": "WeatherForecast/weather-forecasts",

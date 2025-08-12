@@ -47,3 +47,5 @@ D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Services.A
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Services.Api\bin\Debug\net8.0\FluentValidation.dll
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Services.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Services.Api\obj\Debug\net8.0\Orders.Services.Api.sourcelink.json
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Services.Api\bin\Debug\net8.0\Orders.Domain.dll
+D:\github\DomainDriventDesignByPrinciplesPatternsPractices\src\Orders.Services.Api\bin\Debug\net8.0\Orders.Domain.pdb

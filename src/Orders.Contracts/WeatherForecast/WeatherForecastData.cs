@@ -8,12 +8,14 @@ namespace Orders.Contracts.WeatherForecast
 {
     public class WeatherForecastData
     {
-        public DateOnly Date { get; set; }
+        internal WeatherForecastData() { }
 
-        public int TemperatureC { get; set; }
+        public DateOnly Date { get; init; }
 
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        public int TemperatureC { get; init; }
 
-        public string? Summary { get; set; }
+        public int TemperatureF { get; init; }
+
+        public string? Summary { get; init; }
     }
 }

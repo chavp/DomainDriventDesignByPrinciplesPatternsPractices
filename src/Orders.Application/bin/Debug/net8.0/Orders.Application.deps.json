@@ -9,8 +9,10 @@
       "Orders.Application/1.0.0": {
         "dependencies": {
           "Chavp.Application": "1.0.0",
+          "Chavp.Domain": "1.0.0",
           "FluentValidation": "12.0.0",
-          "Orders.Contracts": "1.0.0"
+          "Orders.Contracts": "1.0.0",
+          "Orders.Domain": "1.0.0"
         },
         "runtime": {
           "Orders.Application.dll": {}
@@ -181,6 +183,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Orders.Domain/1.0.0": {
+        "dependencies": {
+          "Chavp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Orders.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -292,6 +305,11 @@
       "sha512": ""
     },
     "Orders.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Orders.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

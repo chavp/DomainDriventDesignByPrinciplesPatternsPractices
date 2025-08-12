@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chavp.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80b04fc886cd03d6cbb16e006ecb290eefa1d8d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff3db7b4c2221bcd9130ea4515e88a3c41021fea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chavp.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chavp.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

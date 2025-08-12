@@ -356,8 +356,10 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Chavp.Application": "1.0.0",
+          "Chavp.Domain": "1.0.0",
           "FluentValidation": "12.0.0",
-          "Orders.Contracts": "1.0.0"
+          "Orders.Contracts": "1.0.0",
+          "Orders.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Orders.Application.dll": {}
@@ -374,6 +376,19 @@
         },
         "runtime": {
           "bin/placeholder/Orders.Contracts.dll": {}
+        }
+      },
+      "Orders.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Chavp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Orders.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Orders.Domain.dll": {}
         }
       }
     }
@@ -1129,6 +1144,11 @@
       "type": "project",
       "path": "../Orders.Contracts/Orders.Contracts.csproj",
       "msbuildProject": "../Orders.Contracts/Orders.Contracts.csproj"
+    },
+    "Orders.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Orders.Domain/Orders.Domain.csproj",
+      "msbuildProject": "../Orders.Domain/Orders.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
